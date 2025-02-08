@@ -1,9 +1,10 @@
-# Python Projects
+# Projects Tasks Documentation
 
-This repository contains two Python projects:
+This repository contains Python projects:
 
 1. **Task 1: Credit Card Validator**
 2. **Task 2: Location Finder**
+3. **Task 3: Document Scanner**
 
 Each task is implemented using Python and follows best practices.
 
